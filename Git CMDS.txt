@@ -1,0 +1,30 @@
+create a file
+git add .
+git commit -m "Initial Commit"
+git log
+* moving files from working, staging, master
+* renaming a file
+  git mv <f1> <f2>
+  
+* project/.gitignore
+	
+	
+9) Navigating the commit tree
+git ls-tree master
+* git log <xxx>
+* git 
+
+10)git branch
+git cheockout new_branch
+
+* diff between two branches
+* git diff br1 br2
+
+* ranaming a branch
+git branch -m br1 br2
+
+* delete a branch
+git branch -d br1
+
+* merge
+git merge br
